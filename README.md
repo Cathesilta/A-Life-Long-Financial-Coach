@@ -16,4 +16,4 @@ I'll be glat if you have some comprehending suggestions in the Issues sector.
 #### Contribution Policy
 
 You have suggestion about how to make a plan (either financially, empirically, or intuitively), even if you can't code, don't be hesitate to write an issue. 
-If you want to contribute to this repository, please write complete annotations for your code. If you contribute a script file, please write what does the file do in the head lines of the file. And please name the files, functions and variables well.
+If you want to contribute to this repository, please write complete annotations for your code. If you contribute a script file, please write what does the file do in the head lines of the file. And please name the files, functions and variables well. I've not trained to code strictly, but at least my code and I hope your code conforms with the basic concepts from "Code Complete".
