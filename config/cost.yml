@@ -1,0 +1,11 @@
+
+Cost_Of_Living:
+  residence: 4250
+  electricity: 133
+  gas: 125
+  water: 20
+  food: 2000                  
+  commute: 100 
+
+Invest:
+  life_coach: 0

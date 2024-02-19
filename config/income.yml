@@ -1,0 +1,104 @@
+Plan1:
+  Monthly:
+    Fixed_Salary:
+      monthly_gross: 30000
+      monthly_net: 19739
+      increasing_rate:
+        frequency: 'year'           # can be month or year
+        rate: '5%'                  # can be '' or a percentage string
+      estimate_profit_month: 2      # months, 0 for right away
+      daily_operational_hour: 11    # full-time working time with commuting time.
+      total_development_hour: 0     
+
+    Subsidy:
+      monthly_gross: 1000
+      monthly_net: 1000
+      estimate_profit_month: 2
+      daily_operational_hour: 0
+      total_development_hour: 0
+    
+    Pass_Income_1:                  # YouTube Street Fighter
+      monthly_gross: 6000
+      monthly_net: 3000
+      increasing_rate:
+        frequency: 'month'
+        rate: ''
+      estimate_profit_month: 10
+      daily_operational_hour: 0.1
+      total_development_hour: 10
+
+
+    Pass_Income_2:                  # YouTube Tekken8
+      monthly_gross: 6000
+      monthly_net: 3000
+      increasing_rate:
+        frequency: 'month'
+        rate: ''
+      estimate_profit_month: 13
+      daily_operational_hour: 0.1
+      total_development_hour: 30
+    
+  Yearly:
+    Year_End_Avenue:
+      yearly_gross: 30000
+      yearly_net: 19739
+      estimate_profit_month: 13
+      daily_hour_consuming: 0
+      total_development_hour: 0
+
+# --------------------------------------------------------------------------------------
+Plan2:
+  Monthly:
+    Pass_Income_1:                  # YouTube Street Fighter
+      monthly_gross: 6000
+      monthly_net: 3000
+      increasing_rate:
+        frequency: 'month'
+        rate: ''
+      estimate_profit_month: 10
+      daily_operational_hour: 0.1
+      total_development_hour: 10
+
+    Pass_Income_2:                  # YouTube Tekken8
+      monthly_gross: 6000
+      monthly_net: 3000
+      increasing_rate:
+        frequency: 'month'
+        rate: ''
+      estimate_profit_month: 13
+      daily_operational_hour: 0.1
+      total_development_hour: 30
+
+    Pass_Income_3:                  # YouTube Gosspis
+      monthly_gross: 0
+      monthly_net: 0
+      increasing_rate:
+        frequency: 'month'
+        rate: ''
+      estimate_profit_month: 0
+      daily_operational_hour: 0.1
+      total_development_hour: 50
+
+
+    Pass_Income_4:                  # YouTube News
+      monthly_gross: 0
+      monthly_net: 0
+      increasing_rate:
+        frequency: 'month'
+        rate: ''
+      estimate_profit_month: 0
+      daily_operational_hour: 0.1
+      total_development_hour: 30
+
+
+    
+    
+  
+
+
+
+
+
+
+
+    
