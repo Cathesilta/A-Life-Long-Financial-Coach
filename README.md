@@ -1,7 +1,7 @@
 ## A-Life-Long-Financial-Plan
 This repository assists individuals who are not wealthy in making decisions for their long-term financial goals. It does so by calculating potential future wealth, visualizing this wealth, and comparing probable income.
 
-So far, my financial education has been limited. My understanding comes primarily from intuitive insights gained through reading "Rich Dad Poor Dad" and "Guide to Investing" (by Robert Kiyosaki), as well as participating in MIT's open finance courses (led by Andrew Lo).
+So far, my financial education has been limited. My understanding comes primarily from intuitive insights gained through reading "*Rich Dad Poor Dad*" and "*Guide to Investing*" (by Robert Kiyosaki), as well as participating in MIT's open finance courses (led by Andrew Lo).
 
 I would be glad to receive any insightful suggestions you might have in the Issues section.
 
@@ -10,7 +10,7 @@ I would be glad to receive any insightful suggestions you might have in the Issu
 #### Usage
 
 -place holder-
-
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 
 #### Contribution Policy
