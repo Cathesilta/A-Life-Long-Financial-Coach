@@ -1,9 +1,9 @@
 ## A-Life-Long-Financial-Plan
 This repository assists individuals who are not wealthy in making decisions for their long-term financial goals. It does so by calculating potential future wealth, visualizing this wealth, and comparing probable income.
 
-By far, I've got not much financial education. I've only got some intuitive tastes after reading through "Poor Dad Rich Dad", "Guide To Invest" (Robert Kiyosaki), and attended in the MIT open finance courses (Andrew Lo).
+So far, my financial education has been limited. My understanding comes primarily from intuitive insights gained through reading "Rich Dad Poor Dad" and "Guide to Investing" (by Robert Kiyosaki), as well as participating in MIT's open finance courses (led by Andrew Lo).
 
-I'll be glat if you have some comprehending suggestions in the Issues sector. 
+I would be glad to receive any insightful suggestions you might have in the Issues section.
 
  
 
@@ -15,5 +15,8 @@ I'll be glat if you have some comprehending suggestions in the Issues sector.
 
 #### Contribution Policy
 
-You have suggestion about how to make a plan (either financially, empirically, or intuitively), even if you can't code, don't be hesitate to write an issue. 
-If you want to contribute to this repository, please write complete annotations for your code. If you contribute a script file, please write what does the file do in the head lines of the file. And please name the files, functions and variables well. I've not trained to code strictly, but at least my code and I hope your code conforms with the basic concepts from "Code Complete".
+
+If you have suggestions on how to improve the plan (financially, empirically, or intuitively), even if you're not skilled in coding, please don't hesitate to submit an issue.
+
+
+If you're interested in contributing to this repository, we kindly ask that you provide comprehensive annotations for your code. For script files, please include a description of the file's purpose in the header comments. Additionally, we request that you use clear and descriptive names for files, functions, and variables. While I may not adhere strictly to every coding standard, my code—and I hope yours as well—follows the fundamental principles outlined in "Code Complete." If you're not familiar with the book, its core message is to "check your code to ensure it doesn't require excessive effort to understand."
