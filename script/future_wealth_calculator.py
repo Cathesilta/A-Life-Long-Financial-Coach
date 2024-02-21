@@ -1,8 +1,7 @@
 import time
 from datetime import datetime
 
-birth_year = 1990
-current_year = 2024
+birth_year = 2000
 
 annual_inflation_rate = 2/100
 number_of_year = 11
@@ -18,4 +17,6 @@ if __name__ == "__main__":
     
     print(f"After {number_of_year} years, which is {number_of_year+current_year}. "
           f"Your age will be {number_of_year+current_year-birth_year}. \n"
-          f"At that time, {future_value} yuan was equivalent to {current_value} yuan today. ")
+          f"At that time, {future_value} was equivalent to {current_value} today. ")
+    
+    
